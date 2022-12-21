@@ -1,0 +1,40 @@
+.footer{
+    text-align:center;
+    margin-top:50px;
+}
+
+.blocks{
+    display:flex;
+    justify-content:space-around;
+}
+
+.black_block {
+    height: 120px;
+    width: 400px;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 20px 20px 0 0;
+}
+
+.black_block > h3 > span{
+    float:right;
+    margin-right:20px;
+}
+
+.green_block {
+    height: 120px;
+    width: 300px;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 20px 20px 0 0;
+}
+
+.green_block > h5 > span {
+    height:40px;
+    width:40px;
+    float: right;
+    margin-right: 20px;
+    background-color:#8ae048;
+    background-position:center;
+    border-radius:20px;
+}

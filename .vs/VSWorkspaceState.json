@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\Components",
+    "\\src\\Components\\Blog",
+    "\\src\\Components\\Find",
+    "\\src\\Components\\Footer",
+    "\\src\\Components\\Header",
+    "\\src\\Components\\Midle"
+  ],
+  "SelectedNode": "\\src\\Components\\Midle\\Midle.module.css",
+  "PreviewInSolutionExplorer": false
+}
